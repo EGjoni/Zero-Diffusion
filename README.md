@@ -1,2 +1,2 @@
 # Zero-Diffusion
-Proof of concept showing that diffusion models may be zero-shot learners of people / styles /  characters.
+Proof of concept experiments indicating that diffusion models may be zero-shot learners of people / styles /  characters.
